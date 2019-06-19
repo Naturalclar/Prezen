@@ -4903,6 +4903,11 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
+react-native-ble-peripheral@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-ble-peripheral/-/react-native-ble-peripheral-2.0.1.tgz#54d170fc16df39dbb3ff345374b327705f662f77"
+  integrity sha512-pppFZZS41bZn/Eb4l3dAAjPS+RrYIraB4WF/rTBbU+GLCRFtzgheZAtQMydIH0oKZm8Ope4zWeGr1TKFbFz5Jg==
+
 react-native@0.59.9:
   version "0.59.9"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.9.tgz#c94ee4fa35121720c05235a2dd6cdd2784bf5177"
